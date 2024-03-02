@@ -1,0 +1,14 @@
+Hola Mundo
+
+GUI:Graphic User Interface
+CLI:Command Line Interface
+
+'''
+ pwd: print working directory - imprime la ruta de trabajo
+ cd: change directory - cambia la ruta de trabajo
+ ls: list - lista el contenido de la ruta de trabajo
+ ls -l: lista el contenido de la ruta de trabajo en formato largo
+ mkdir: make directory - crea un directorio
+
+ la estructura en la terminal es 
+ usuario@nombreDeLaMaquina:rutaDeTrabajo$

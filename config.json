@@ -1,0 +1,26 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+      "*": true,
+      "plaintext": true,
+      "markdown": false,
+      "scminput": false,
+      "yaml": false,
+      "java": true
+  },
+  "[python]": {
+      "editor.formatOnType": true
+  },
+  "git.autofetch": true,
+  "redhat.telemetry.enabled": false,
+  "prolog.executablePath": "\"C:\\Program Files\\swipl\\bin\\swipl-win.exe\" --win_app",
+  "inlineChat.showDiff": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "window.restoreWindows": "none",
+  "files.autoSave": "onFocusChange",
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.wordWrap": "on"
+}
